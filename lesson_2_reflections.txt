@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+After initialization will create a new directory,we need to do this fo start working with git
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area - buffer for commits, future tracking files will be there
